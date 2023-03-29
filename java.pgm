@@ -1,0 +1,51 @@
+hai munna
+
+
+
+// Java code to illustrate
+// System.out.println();
+  
+import java.io.*;
+  
+class GFG {
+    public static void main(String[] args)
+    {
+        System.out.println("Welcome");
+        System.out.println("To");
+        System.out.println("GeeksforGeeks");
+    }
+}
+Output:
+Welcome
+To
+GeeksforGeeks
+Example 2:
+
+
+// Java code to illustrate
+// System.out.println();
+  
+import java.io.*;
+  
+class GFG {
+    public static void main(String[] args)
+    {
+  
+        // Declaring variable
+        int num1 = 10, num2 = 20, sum;
+  
+        // Printing the variables
+        System.out.print("The addition of ");
+        System.out.println(
+            num1 + " and " + num2 + " is:");
+  
+        // Printing the result after operation
+        System.out.println(num1 + num2);
+    }
+}
+Output:
+The addition of 10 and 20 is:
+30
+
+this is pkapil 
+welcome
